@@ -2,6 +2,21 @@
  "version": 1,
  "mods": [
   {
+   "id": "running-skeleton",
+   "name": "Running skeleton",
+   "author": "NCast2020",
+   "uploader": "NCast2020",
+   "version": "1.1",
+   "description": "A skeleton runs across the screen when Danger Time starts, and with a 2% chance every second of a fight. Two versions: guitar riff or scary sound.\r\nСкелет пробегает по экрану в начале Danger Time и с шансом 2% каждую секунду боя. Две версии: гитарный рифф или страшный звук.",
+   "kind": "overlay",
+   "url": "https://github.com/NCast2020/xrd-mods/releases/download/running-skeleton-20261102-071501/running-skeleton.zip",
+   "size": 1830829,
+   "sha256": "4a93b82e2027eb48bd23ee42355bb48da75e7f0aa439024f104614f816bf2bb2",
+   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/running-skeleton-20261102-071501/running-skeleton-preview.png",
+   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/running-skeleton-20261102-071501",
+   "updated": "2026-11-02T07:15:05Z"
+  },
+  {
    "id": "sol-dustloop-damn",
    "name": "Sol Dustloop Damn",
    "author": "NCast2020",
@@ -45,21 +60,6 @@
    "preview": "https://github.com/NCast2020/xrd-mods/releases/download/foxy-jumpscare-20261102-044907/foxy-jumpscare-preview.png",
    "release": "https://github.com/NCast2020/xrd-mods/releases/tag/foxy-jumpscare-20261102-044907",
    "updated": "2026-11-02T04:49:11Z"
-  },
-  {
-   "id": "running-skeleton",
-   "name": "Running skeleton",
-   "author": "NCast2020",
-   "uploader": "NCast2020",
-   "version": "1.0",
-   "description": "A skeleton runs across the screen when Danger Time starts, and with a 2% chance every 10 s of a fight. Two versions: guitar riff or scary sound.\r\nСкелет пробегает по экрану в начале Danger Time и с шансом 2% каждые 10 с боя. Две версии: гитарный рифф или страшный звук.",
-   "kind": "overlay",
-   "url": "https://github.com/NCast2020/xrd-mods/releases/download/running-skeleton-20261102-044842/running-skeleton.zip",
-   "size": 1830825,
-   "sha256": "bb76e0be09b3d1a3d16669bc8debab06b4cf24d786cd2e966ff9c7529f203c7b",
-   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/running-skeleton-20261102-044842/running-skeleton-preview.png",
-   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/running-skeleton-20261102-044842",
-   "updated": "2026-11-02T04:48:46Z"
   }
  ]
 }
