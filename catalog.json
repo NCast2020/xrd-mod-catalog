@@ -2,6 +2,21 @@
  "version": 1,
  "mods": [
   {
+   "id": "sol-dustloop-damn",
+   "name": "Sol Dustloop Damn",
+   "author": "NCast2020",
+   "uploader": "NCast2020",
+   "version": "1.1",
+   "description": "Plays the \"DAMN\" meme every time Sol lands a dustloop (j.D, fall, j.D in one jump; no landing, jump cancel or other attacks between), anywhere. Sound only, tuned to sit under the game's hits. Two versions: \"Damn\" meme or Duke Nukem's \"Damn, I'm good\".\r\nМемное «DAMN» на каждый Dustloop Сола (j.D, падение, j.D в одном прыжке; без приземления, jump cancel и других ударов между ними), где угодно. Только звук, тише ударов игры. Две версии: мем «Damn» или «Damn, I'm good» Дюка Нюкема.",
+   "kind": "overlay",
+   "url": "https://github.com/NCast2020/xrd-mods/releases/download/sol-dustloop-damn-20261102-060911/sol-dustloop-damn.zip",
+   "size": 1167577,
+   "sha256": "4cd0353cad74c71c693c95812e9202cbaeeb1578b6bd774072e6b94368acc270",
+   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/sol-dustloop-damn-20261102-060911/sol-dustloop-damn-preview.png",
+   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/sol-dustloop-damn-20261102-060911",
+   "updated": "2026-11-02T06:09:15Z"
+  },
+  {
    "id": "sol-aiii-dragon-install",
    "name": "Sol AIII Dragon Install",
    "author": "NCast2020",
@@ -15,21 +30,6 @@
    "preview": "https://github.com/NCast2020/xrd-mods/releases/download/sol-aiii-dragon-install-20261102-054808/sol-aiii-dragon-install-preview.png",
    "release": "https://github.com/NCast2020/xrd-mods/releases/tag/sol-aiii-dragon-install-20261102-054808",
    "updated": "2026-11-02T05:48:13Z"
-  },
-  {
-   "id": "sol-dustloop-damn",
-   "name": "Sol Dustloop Damn",
-   "author": "NCast2020",
-   "uploader": "NCast2020",
-   "version": "1.0",
-   "description": "Plays the \"DAMN\" meme every time Sol lands a dustloop at the wall (two j.D in one combo). Sound only, tuned to sit under the game's hits. Two versions: \"Damn\" meme or Duke Nukem's \"Damn, I'm good\".\r\nМемное «DAMN» на каждый Dustloop Сола у стены (два j.D в одном комбо). Только звук, тише ударов игры. Две версии: мем «Damn» или «Damn, I'm good» Дюка Нюкема.",
-   "kind": "overlay",
-   "url": "https://github.com/NCast2020/xrd-mods/releases/download/sol-dustloop-damn-20261102-045622/sol-dustloop-damn.zip",
-   "size": 1165975,
-   "sha256": "56809d560c95798871304c218207c8e5eb4c62ae62b27788aeaab02aa880d9fe",
-   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/sol-dustloop-damn-20261102-045622/sol-dustloop-damn-preview.png",
-   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/sol-dustloop-damn-20261102-045622",
-   "updated": "2026-11-02T04:56:26Z"
   },
   {
    "id": "foxy-jumpscare",
