@@ -2,6 +2,21 @@
  "version": 1,
  "mods": [
   {
+   "id": "foxy-jumpscare",
+   "name": "Foxy jumpscare",
+   "author": "NCast2020",
+   "uploader": "NCast2020",
+   "version": "1.1",
+   "description": "Foxy (FNaF 2) jumpscare over the whole screen with his scream: 1% chance every second of an ordinary fight (never in Danger Time, pause or menus).\r\nСкример с Фокси (FNaF 2) на весь экран с криком: шанс 1% каждую секунду обычного боя (не в Danger Time, паузе и меню).",
+   "kind": "overlay",
+   "url": "https://github.com/NCast2020/xrd-mods/releases/download/foxy-jumpscare-20261102-071529/foxy-jumpscare.zip",
+   "size": 4872139,
+   "sha256": "e41d85556b9f69e6c6eeda3632d19b4c5dc7e5526c5b11d1b448a840bbdb9279",
+   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/foxy-jumpscare-20261102-071529/foxy-jumpscare-preview.png",
+   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/foxy-jumpscare-20261102-071529",
+   "updated": "2026-11-02T07:15:33Z"
+  },
+  {
    "id": "running-skeleton",
    "name": "Running skeleton",
    "author": "NCast2020",
@@ -45,21 +60,6 @@
    "preview": "https://github.com/NCast2020/xrd-mods/releases/download/sol-aiii-dragon-install-20261102-063913/sol-aiii-dragon-install-preview.png",
    "release": "https://github.com/NCast2020/xrd-mods/releases/tag/sol-aiii-dragon-install-20261102-063913",
    "updated": "2026-11-02T06:39:17Z"
-  },
-  {
-   "id": "foxy-jumpscare",
-   "name": "Foxy jumpscare",
-   "author": "NCast2020",
-   "uploader": "NCast2020",
-   "version": "1.0",
-   "description": "Foxy (FNaF 2) jumpscare over the whole screen with his scream: 1% chance every 10 s of an ordinary fight (never in Danger Time, pause or menus).\r\nСкример с Фокси (FNaF 2) на весь экран с криком: шанс 1% каждые 10 с обычного боя (не в Danger Time, паузе и меню).",
-   "kind": "overlay",
-   "url": "https://github.com/NCast2020/xrd-mods/releases/download/foxy-jumpscare-20261102-044907/foxy-jumpscare.zip",
-   "size": 4872142,
-   "sha256": "b75d3a1a978581e8dde25965be3d8da1606bcfa2cc179e39b76cfbd92d707685",
-   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/foxy-jumpscare-20261102-044907/foxy-jumpscare-preview.png",
-   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/foxy-jumpscare-20261102-044907",
-   "updated": "2026-11-02T04:49:11Z"
   }
  ]
 }
