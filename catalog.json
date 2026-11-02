@@ -2,6 +2,21 @@
  "version": 1,
  "mods": [
   {
+   "id": "sol-aiii-dragon-install",
+   "name": "Sol AIII Dragon Install",
+   "author": "NCast2020",
+   "uploader": "NCast2020",
+   "version": "1.0",
+   "description": "Sol's Dragon Install music (\"Ride the Fire\") starts with the \"AIII AIII\" scream meme instead of \"Ready or not\". Two versions: scream at the start only, or a scream on every sung line.\r\nМузыка Dragon Install Сола («Ride the Fire») начинается с мемного крика «AIII AIII» вместо «Ready or not». Две версии: крик только в начале или крик вместо каждой спетой строки.",
+   "kind": "upk",
+   "url": "https://github.com/NCast2020/xrd-mods/releases/download/sol-aiii-dragon-install-20261102-054808/sol-aiii-dragon-install.zip",
+   "size": 7961131,
+   "sha256": "2e30c8dc253d8f3c118c199ae8bcee1ea33b46cc2091bbd047317a5e3fd5ebcd",
+   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/sol-aiii-dragon-install-20261102-054808/sol-aiii-dragon-install-preview.png",
+   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/sol-aiii-dragon-install-20261102-054808",
+   "updated": "2026-11-02T05:48:13Z"
+  },
+  {
    "id": "sol-dustloop-damn",
    "name": "Sol Dustloop Damn",
    "author": "NCast2020",
