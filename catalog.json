@@ -7,14 +7,14 @@
    "author": "NCast2020",
    "uploader": "NCast2020",
    "version": "1.5",
-   "description": "Plays the \"DAMN\" meme every time Sol lands a dustloop: two j.D in a row in a combo (any starter, e.g. 6P > 5HS), with no rejump, jump cancel, dash or other button between (the second j.D may hit low, as Sol lands); not in the air combo after 5D. Sound only, tuned to sit under the game's hits. Two versions: \"Damn\" meme or Duke Nukem's \"Damn, I'm good\".\r\nМемное «DAMN» на каждый Dustloop Сола: два j.D подряд в комбо (с любым стартером, например 6P > 5HS), без реджампа, jump cancel, рывков и других кнопок между ними (второй j.D может попасть низко, при касании земли); кроме воздушного комбо после 5D. Только звук, тише ударов игры. Две версии: мем «Damn» или «Damn, I'm good» Дюка Нюкема.",
+   "description": "Plays the \"DAMN\" meme every time Sol lands a dustloop.\r\nПроигрывает мемное «DAMN» на каждый Dustloop Сола.",
    "kind": "overlay",
-   "url": "https://github.com/NCast2020/xrd-mods/releases/download/sol-dustloop-damn-20261102-080620/sol-dustloop-damn.zip",
-   "size": 1168260,
-   "sha256": "cd402684992ef689e201a673e49b3620157a20d0113dc73a6d7287f5383888df",
-   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/sol-dustloop-damn-20261102-080620/sol-dustloop-damn-preview.png",
-   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/sol-dustloop-damn-20261102-080620",
-   "updated": "2026-11-02T08:06:24Z"
+   "url": "https://github.com/NCast2020/xrd-mods/releases/download/sol-dustloop-damn-20261102-081301/sol-dustloop-damn.zip",
+   "size": 1167827,
+   "sha256": "6ab7101d66e2652994e8b8e39571652c5a12c770b39419e893741037cd3a1948",
+   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/sol-dustloop-damn-20261102-081301/sol-dustloop-damn-preview.png",
+   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/sol-dustloop-damn-20261102-081301",
+   "updated": "2026-11-02T08:13:05Z"
   },
   {
    "id": "sin-heli-lollipop",
