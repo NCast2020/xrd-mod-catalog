@@ -2,6 +2,21 @@
  "version": 1,
  "mods": [
   {
+   "id": "sin-heli-lollipop",
+   "name": "Sin Heli Lollipop",
+   "author": "NCast2020",
+   "uploader": "NCast2020",
+   "version": "1.0",
+   "description": "Sin wears a propeller cap and fights with a giant lollipop instead of his flagpole (both ported from Guilty Gear Strive mods). Cosmetic only: animations and hitboxes are stock.\r\nСин в шапочке с пропеллером и с огромным леденцом вместо флагштока (перенесено из модов для Guilty Gear Strive). Только внешний вид: анимации и хитбоксы оригинальные.",
+   "kind": "upk",
+   "url": "https://github.com/NCast2020/xrd-mods/releases/download/sin-heli-lollipop-20261102-073144/sin-heli-lollipop.zip",
+   "size": 16712570,
+   "sha256": "4366b982766b0ddf91f962adf125d71697da2de3a8cd28642ca71973c8e68de1",
+   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/sin-heli-lollipop-20261102-073144/sin-heli-lollipop-preview.png",
+   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/sin-heli-lollipop-20261102-073144",
+   "updated": "2026-11-02T07:31:49Z"
+  },
+  {
    "id": "sol-dustloop-damn",
    "name": "Sol Dustloop Damn",
    "author": "NCast2020",
