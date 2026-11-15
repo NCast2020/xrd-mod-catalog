@@ -2,6 +2,21 @@
  "version": 1,
  "mods": [
   {
+   "id": "mortal-counter-fah",
+   "name": "Mortal Counter Fah",
+   "author": "NCast2020",
+   "uploader": "NCast2020",
+   "version": "1.0",
+   "description": "The announcer's \"Mortal Counter!\" in Danger Time is replaced by the \"Fah\" meme sound (with its reverb). Sound only.\r\nВо время Danger Time вместо «Mortal Counter!» диктора звучит мем «Fah» (с ревербом). Меняется только звук.",
+   "kind": "upk",
+   "url": "https://github.com/NCast2020/xrd-mods/releases/download/mortal-counter-fah-20261115-180503/mortal-counter-fah.zip",
+   "size": 6403406,
+   "sha256": "f3918fd4c0e27e9891a6da4c307533d7bdc17619e9d628583e6071ae8410bc64",
+   "preview": "https://github.com/NCast2020/xrd-mods/releases/download/mortal-counter-fah-20261115-180503/mortal-counter-fah-preview.png",
+   "release": "https://github.com/NCast2020/xrd-mods/releases/tag/mortal-counter-fah-20261115-180503",
+   "updated": "2026-11-15T18:05:07Z"
+  },
+  {
    "id": "sol-dustloop-damn",
    "name": "Sol Dustloop Damn",
    "author": "NCast2020",
